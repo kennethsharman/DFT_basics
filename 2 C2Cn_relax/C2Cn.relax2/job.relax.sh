@@ -1,10 +1,10 @@
 #!/bin/bash
-# 00:02:05 
+# 100.12 G
 
-#SBATCH --time=0-00:30
-#SBATCH --nodes=1
+#SBATCH --time=1-00:00
+#SBATCH --nodes=4
 #SBATCH --ntasks-per-node=32
-#SBATCH --mem=25G
+#SBATCH --mem=45G
 
 #SBATCH --mail-user=kenneth.sharman@ucalgary.ca
 #SBATCH --mail-type=ALL
