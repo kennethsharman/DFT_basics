@@ -1,0 +1,35 @@
+slurmstepd: error: *** STEP 47803342.0 ON cdr1405 CANCELLED AT 2022-10-15T07:41:23 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 47803342 ON cdr1405 CANCELLED AT 2022-10-15T07:41:23 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+
+Stack trace terminated abnormally.
