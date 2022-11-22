@@ -1,0 +1,74 @@
+
+     Program POST-PROC v.6.8 starts on 16Nov2022 at 11:59:57 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on      16 processor cores
+     Number of MPI processes:                16
+     Threads/MPI process:                     1
+
+     MPI processes distributed on     1 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      16
+     185808 MiB available memory on the printing compute node when the environment starts
+ 
+
+     Reading xml data from directory:
+
+     ./TMP_DIR/hBN.save/
+     file N.pbe-n-kjpaw_psl.1.0.0.UPF: wavefunction(s)  2S renormalized
+     file C.pbe-n-kjpaw_psl.1.0.0.UPF: wavefunction(s)  2S 2P renormalized
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+ 
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min         586     586    157                54685    54685    7555
+     Max         587     587    158                54687    54687    7558
+     Sum        9383    9383   2523               874973   874973  120903
+ 
+     Using Slab Decomposition
+ 
+ ----2D----2D----2D----2D----2D----2D----2D----2D----2D----2D----2D----2D
+  The code is running with the 2D cutoff
+  Please refer to:
+  Sohier, T., Calandra, M., & Mauri, F. (2017), 
+  Density functional perturbation theory for gated two-dimensional heterostructu
+ res:
+  Theoretical developments and application to flexural phonons in graphene.
+  Physical Review B, 96(7), 75448. https://doi.org/10.1103/PhysRevB.96.075448
+ ----2D----2D----2D----2D----2D----2D----2D----2D----2D----2D----2D----2D
+
+     Check: negative core charge=   -0.000007
+
+     negative rho (up, down):  1.577E-02 0.000E+00
+
+     Calling punch_plot, plot_num =   7
+
+     Plotting k_point =   1  band =100
+     Writing data to file  temp_orbital.dat
+     Reading data from file  temp_orbital.dat
+
+     Writing data to be plotted to file 100.cub
+     Plot Type: 3D                     Output format: Gaussian cube
+ 
+     POST-PROC    :      6.59s CPU      8.20s WALL
+
+ 
+   This run was terminated on:  12: 0: 6  16Nov2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

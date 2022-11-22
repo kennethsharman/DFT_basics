@@ -1,0 +1,18 @@
+&inputpp
+   prefix = 'hBN',
+   outdir='./TMP_DIR/',
+   filplot = 'temp_orbital.dat',
+   plot_num = 7,
+   kpoint = 1,
+   kband = 99,
+   lsign = .true.
+/
+
+&plot
+   nfile = 1,
+   filepp(1) = 'temp_orbital.dat',
+   weight(1) = 1,
+   output_format = 6,
+   fileout = '99.cub',
+   iflag = 3
+/
