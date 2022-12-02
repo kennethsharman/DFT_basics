@@ -1,0 +1,32 @@
+
+     Program MATDYN v.6.8 starts on  1Dec2022 at 17:38:13 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on      64 processor cores
+     Number of MPI processes:                64
+     Threads/MPI process:                     1
+
+     MPI processes distributed on     2 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      64
+     149184 MiB available memory on the printing compute node when the environment starts
+ 
+ mass for atomic type   1 not given; uses mass from file hBN221.fc                                                                                                                                                                                                                                                       
+ mass for atomic type   2 not given; uses mass from file hBN221.fc                                                                                                                                                                                                                                                       
+ mass for atomic type   3 not given; uses mass from file hBN221.fc                                                                                                                                                                                                                                                       
+ 
+     MATDYN       :      2h40m CPU      2h41m WALL
+
+ 
+   This run was terminated on:  20:19:29   1Dec2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

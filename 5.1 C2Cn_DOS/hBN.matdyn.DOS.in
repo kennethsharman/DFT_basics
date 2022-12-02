@@ -1,0 +1,12 @@
+&input
+	asr	=	'no',
+	loto_2d = 	.true. 
+	flfrc	=	'hBN221.fc',
+	flfrq	=	'hBN.freq', 
+	dos	=	.true., 
+	fldos	=	'hBN.dos',
+	!deltaE	=	5d0,
+	nk1=50, nk2 = 50, nk3 = 1,
+	!degauss	= 15.0
+/
+

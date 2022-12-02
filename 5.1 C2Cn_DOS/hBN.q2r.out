@@ -1,0 +1,47 @@
+
+     Program Q2R v.6.8 starts on  1Dec2022 at 17:29: 8 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on       1 processor cores
+     Number of MPI processes:                 1
+     Threads/MPI process:                     1
+
+     MPI processes distributed on     1 nodes
+     215900 MiB available memory on the printing compute node when the environment starts
+ 
+
+     reading grid info from file hBN.dyn0    
+  reading force constants from file hBN.dyn1
+  Dielectric Tensor not found
+  nqs=            1
+ q=   0.00000000  0.00000000  0.00000000
+  reading force constants from file hBN.dyn2
+  nqs=            1
+ q=  -0.00037221 -0.57614055  0.00000000
+  reading force constants from file hBN.dyn3
+  nqs=            1
+ q=  -0.49876718 -0.28839102  0.00000000
+  reading force constants from file hBN.dyn4
+  nqs=            1
+ q=  -0.49913939 -0.86453157  0.00000000
+
+      q-space grid ok, #points =    4
+
+      fft-check success (sum of imaginary terms < 10^-12)
+ 
+     Q2R          :      0.27s CPU      0.92s WALL
+
+ 
+   This run was terminated on:  17:29: 9   1Dec2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

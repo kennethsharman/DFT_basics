@@ -1,0 +1,4 @@
+&input
+ zasr='simple',  fildyn='hBN.dyn', flfrc='hBN221.fc', loto_2d=.true.,
+/
+
