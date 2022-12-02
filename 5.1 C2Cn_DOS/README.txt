@@ -10,3 +10,5 @@ Job submission order:
 	5) job.ph.final
 	6) job.q2r
 	7) job.matdyn.DOS
+
+Plot hBN.dos. The phonon_DOS.ipynb shows you how/what I did.
