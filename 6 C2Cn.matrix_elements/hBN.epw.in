@@ -1,0 +1,42 @@
+--
+&inputepw
+  prefix      	= 'hBN'
+  amass(1)    	= 10.811
+  amass(2)    	= 14.0067
+  amass(3)	= 12.0107
+  outdir      	= './TMP_DIR/'
+  dvscf_dir   	= './save'
+
+  elph        	= .true.
+  epbwrite    	= .false.
+  epbread     	= .false.
+  epwwrite    	= .true.
+  epwread     	= .false.
+  lpolar      	= .false.
+
+  wannierize  	= .true.
+  nbndsub     	= 2
+  bands_skipped = 'exclude_bands = 1:98'
+  num_iter    	= 300
+  proj(1)     	= 'random'   
+
+  elecselfen  	= .false.
+  phonselfen  	= .false.
+  a2f         	= .false.
+  prtgkk      	= .true.
+
+  fsthick     	= 7.0 
+  degaussw    	= 0.05
+
+  filkf		= 'k_path.dat'
+  filqf		= 'q_path.dat'
+
+  !fixsym	= .true.
+
+  nk1         	= 6
+  nk2         	= 6
+  nk3         	= 1
+  nq1         	= 2
+  nq2         	= 2
+  nq3         	= 1
+/
