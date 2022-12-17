@@ -1,0 +1,9 @@
+&inputpp
+  prefix='hBN',
+  outdir='./TMP_DIR/',
+  first_band=100
+  last_band=100
+  loctave=.true.
+  first_k=1, last_k=1
+/
+

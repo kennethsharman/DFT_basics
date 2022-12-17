@@ -1,0 +1,111 @@
+
+     Program Q2R v.6.8 starts on 15Dec2022 at 19:38:22 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on       1 processor cores
+     Number of MPI processes:                 1
+     Threads/MPI process:                     1
+
+     MPI processes distributed on     1 nodes
+     77208 MiB available memory on the printing compute node when the environment starts
+ 
+
+     reading grid info from file hBN.dyn0    
+  reading force constants from file hBN.dyn1
+  Dielectric Tensor not found
+  nqs=            1
+ q=   0.00000000  0.00000000  0.00000000
+  reading force constants from file hBN.dyn2
+  nqs=            2
+ q=   0.00000000  0.19251837  0.00000000
+ q=   0.00000000 -0.19251837  0.00000000
+  reading force constants from file hBN.dyn3
+  nqs=            2
+ q=   0.00000000  0.38503675  0.00000000
+ q=   0.00000000 -0.38503675  0.00000000
+  reading force constants from file hBN.dyn4
+  nqs=            1
+ q=   0.00000000 -0.57755512  0.00000000
+  reading force constants from file hBN.dyn5
+  nqs=            2
+ q=   0.16672580  0.09625919  0.00000000
+ q=  -0.16672580 -0.09625919  0.00000000
+  reading force constants from file hBN.dyn6
+  nqs=            2
+ q=   0.16672580  0.28877756  0.00000000
+ q=  -0.16672580 -0.28877756  0.00000000
+  reading force constants from file hBN.dyn7
+  nqs=            2
+ q=   0.16672580  0.48129593  0.00000000
+ q=  -0.16672580 -0.48129593  0.00000000
+  reading force constants from file hBN.dyn8
+  nqs=            2
+ q=   0.16672580 -0.48129593  0.00000000
+ q=  -0.16672580  0.48129593  0.00000000
+  reading force constants from file hBN.dyn9
+  nqs=            2
+ q=   0.16672580 -0.28877756  0.00000000
+ q=  -0.16672580  0.28877756  0.00000000
+  reading force constants from file hBN.dyn10
+  nqs=            2
+ q=   0.16672580 -0.09625919  0.00000000
+ q=  -0.16672580  0.09625919  0.00000000
+  reading force constants from file hBN.dyn11
+  nqs=            2
+ q=   0.33345160  0.19251837  0.00000000
+ q=  -0.33345160 -0.19251837  0.00000000
+  reading force constants from file hBN.dyn12
+  nqs=            2
+ q=   0.33345160  0.38503675  0.00000000
+ q=  -0.33345160 -0.38503675  0.00000000
+  reading force constants from file hBN.dyn13
+  nqs=            2
+ q=   0.33345160  0.57755512  0.00000000
+ q=  -0.33345160 -0.57755512  0.00000000
+  reading force constants from file hBN.dyn14
+  nqs=            2
+ q=   0.33345160 -0.38503675  0.00000000
+ q=  -0.33345160  0.38503675  0.00000000
+  reading force constants from file hBN.dyn15
+  nqs=            2
+ q=   0.33345160 -0.19251837  0.00000000
+ q=  -0.33345160  0.19251837  0.00000000
+  reading force constants from file hBN.dyn16
+  nqs=            2
+ q=   0.33345160  0.00000000  0.00000000
+ q=  -0.33345160  0.00000000  0.00000000
+  reading force constants from file hBN.dyn17
+  nqs=            1
+ q=  -0.50017740 -0.28877756  0.00000000
+  reading force constants from file hBN.dyn18
+  nqs=            2
+ q=  -0.50017740 -0.09625919  0.00000000
+ q=   0.50017740  0.09625919  0.00000000
+  reading force constants from file hBN.dyn19
+  nqs=            2
+ q=  -0.50017740  0.09625919  0.00000000
+ q=   0.50017740 -0.09625919  0.00000000
+  reading force constants from file hBN.dyn20
+  nqs=            1
+ q=  -0.50017740 -0.86633268  0.00000000
+
+      q-space grid ok, #points =   36
+
+      fft-check success (sum of imaginary terms < 10^-12)
+ 
+     Q2R          :      0.01s CPU      6.00s WALL
+
+ 
+   This run was terminated on:  19:38:28  15Dec2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

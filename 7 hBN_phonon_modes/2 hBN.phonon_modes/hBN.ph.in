@@ -1,0 +1,13 @@
+Phonon dispersions for hBN
+&inputph
+  prefix   = 'hBN'
+  outdir   = './TMP_DIR',
+  fildvscf = 'dvscf'
+  fildyn   = 'hBN.dyn'
+  tr2_ph   = 1.0d-16
+  recover=.true.,
+  alpha_mix(1) = 0.1
+  search_sym = .true.
+  ldisp=.true.,
+  nq1=6, nq2=6, nq3=1,
+/
